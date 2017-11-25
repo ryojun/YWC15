@@ -206,7 +206,7 @@ $Str1 = str_replace(" ", "", $Search);
 </div><br>
 
 <footer class="container-fluid text-center">
-  <button onclick="window.location.href= 'Code.php'" type="button" class="btn btn-danger">ย้อนกลับ</button>
+  <button onclick="window.location.href= 'index.php'" type="button" class="btn btn-danger">ย้อนกลับ</button>
 </footer>
 
 
